@@ -14,6 +14,14 @@
 	<name>Jenkins NUnit plugin new</name>
 	<url>http://wiki.jenkins-ci.org/display/JENKINS/NUnit+Plugin</url>
 
+
+
+	<properties>
+	  <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	  
+	</properties>
+
+
 	<developers>
 		<developer>
 			<id>redsolo</id>
