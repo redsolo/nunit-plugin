@@ -11,7 +11,7 @@
 	<artifactId>nunit</artifactId>
 	<packaging>hpi</packaging>
 	<version>0.15-SNAPSHOT</version>
-	<name>Jenkins NUnit plugin</name>
+	<name>Jenkins NUnit plugin new</name>
 	<url>http://wiki.jenkins-ci.org/display/JENKINS/NUnit+Plugin</url>
 
 	<developers>
