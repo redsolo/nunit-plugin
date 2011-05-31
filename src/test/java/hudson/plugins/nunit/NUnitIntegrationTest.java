@@ -18,7 +18,7 @@ public class NUnitIntegrationTest extends HudsonTestCase {
         FreeStyleBuild build = project.scheduleBuild2(0).get();
         assertBuildStatus(Result.UNSTABLE, build);
         AbstractTestResultAction action = build.getAction(AbstractTestResultAction.class);
-        assertEquals("The number of tests is not correct", 1310, action.getTotalCount());
+        assertEquals("The number of tests is not correct", 1355, action.getTotalCount());
     }
 
     @Bug(9246)
